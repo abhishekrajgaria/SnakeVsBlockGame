@@ -1,3 +1,4 @@
+
 # Snake Vs Block Game
 
 It is an interactive game developed with Java in Object Oriented framework.
@@ -14,8 +15,10 @@ Leaderboard page stores the top 10 scores made by the user with date.
 - Different avatars
 - Background music
 
+
 ## Authors and Contribution
 
 Abhishek :- Gameplay implementation. Movement of snake, blocks designing, tokens etc. Collisions of snake with different objects. Animation timelines.
 
 Shivam:- Made different pages like avatar page, leaderboard page, main menu, drop down menu. Added functionality to each page. Serialization of game state at every state. Positioning of buttons on pages and CSS styling.
+
